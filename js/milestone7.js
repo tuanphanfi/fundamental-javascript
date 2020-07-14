@@ -29,7 +29,7 @@ console.log("Inventor that has a middle name:", inventors.find(inventorHasMiddle
 
 // Find the number divisible by 7.
 const divisibleBy7 = (e) => e % 7 == 0
-// console.log("Number divisible by 7 are:", numbers.find(divisibleBy7))
+console.log("Number divisible by 7 are:", numbers.find(divisibleBy7))
 
 // Bonus: Return a new array, that only has the numbers that are not divisible by 7
 
